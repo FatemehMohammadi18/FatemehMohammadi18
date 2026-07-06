@@ -51,13 +51,6 @@
 </p>
 
 ---
-
-### 📌 Featured Projects
-
-- <a href="https://github.com/FatemehMohammadi18/Torino"><b>Torino</b></a>
-- <i>...and more coming soon!</i>
-
----
 ### 📊 Most Used Languages
 
 <p align="left">
